@@ -15,10 +15,14 @@
     {"id":{"name":"sprPlayerWalkR","path":"sprites/sprPlayerWalkR/sprPlayerWalkR.yy",},"order":4,},
     {"id":{"name":"sprPlayerWalkDL","path":"sprites/sprPlayerWalkDL/sprPlayerWalkDL.yy",},"order":1,},
     {"id":{"name":"sprPlayerIdleR","path":"sprites/sprPlayerIdleR/sprPlayerIdleR.yy",},"order":4,},
+    {"id":{"name":"objSolidWorld","path":"objects/objSolidWorld/objSolidWorld.yy",},"order":1,},
     {"id":{"name":"sprPlayerIdleD","path":"sprites/sprPlayerIdleD/sprPlayerIdleD.yy",},"order":0,},
     {"id":{"name":"sprPlayerWalkL","path":"sprites/sprPlayerWalkL/sprPlayerWalkL.yy",},"order":3,},
     {"id":{"name":"sprPlayerIdleDL","path":"sprites/sprPlayerIdleDL/sprPlayerIdleDL.yy",},"order":1,},
+    {"id":{"name":"sprMask","path":"sprites/sprMask/sprMask.yy",},"order":10,},
     {"id":{"name":"sprPlayerIdleL","path":"sprites/sprPlayerIdleL/sprPlayerIdleL.yy",},"order":3,},
+    {"id":{"name":"sprSolidWorld","path":"sprites/sprSolidWorld/sprSolidWorld.yy",},"order":4,},
+    {"id":{"name":"scrCharMoveTo","path":"scripts/scrCharMoveTo/scrCharMoveTo.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -61,7 +65,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.2.0.614",
+    "IDEVersion": "2022.2.1.618",
   },
   "resourceVersion": "1.5",
   "name": "YTArenaShooter",

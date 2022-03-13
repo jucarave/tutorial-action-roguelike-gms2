@@ -4,8 +4,7 @@ function scrPlayerMovement(){
 
 	if (hor != 0 || ver != 0) {
 		var dir = point_direction(0,0,hor,ver);
-		x += lengthdir_x(1, dir);
-		y += lengthdir_y(1, dir);
+		scrCharMoveTo(1, dir);
 		
 		action = "Walk";
 		scrCharLookAt(dir);
