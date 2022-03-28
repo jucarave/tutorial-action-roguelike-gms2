@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "sprBullet",
-    "path": "sprites/sprBullet/sprBullet.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -20,9 +17,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objSolidWorld","path":"objects/objSolidWorld/objSolidWorld.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -30,7 +25,7 @@
     "path": "folders/Objects/Weapons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objBullet",
+  "name": "objWeapon",
   "tags": [],
   "resourceType": "GMObject",
 }

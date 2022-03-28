@@ -1,8 +1,10 @@
 action = "Idle";
 face = "D";
 
+guns = [noone, noone];
+
 weapon = {
-	sprite: sprGun,
-	
-	angle: 0
+	index: 0,
+	angle: 0,
+	frequency: 0
 };

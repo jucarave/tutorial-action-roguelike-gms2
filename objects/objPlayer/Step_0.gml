@@ -1,2 +1,3 @@
 scrPlayerMovement();
 scrPlayerWeaponUpdate();
+scrPlayerWeaponSwitch();
