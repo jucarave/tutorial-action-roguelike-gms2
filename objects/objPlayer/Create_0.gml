@@ -8,3 +8,5 @@ weapon = {
 	angle: 0,
 	frequency: 0
 };
+
+rollDirection = 0;

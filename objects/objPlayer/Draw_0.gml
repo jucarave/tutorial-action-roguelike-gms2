@@ -1,5 +1,7 @@
 draw_self();
 
+if (action != "Idle" && action != "Walk") { exit; }
+
 if (guns[weapon.index] != noone) {
 	var weaponScale = (weapon.angle >= 90 && weapon.angle < 270) ? -1 : 1;
 	var weaponAngle = weapon.angle + ((weapon.angle >= 90 && weapon.angle < 270) ? 180 : 0);
