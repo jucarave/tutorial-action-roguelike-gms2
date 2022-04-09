@@ -3,6 +3,7 @@
     {"id":{"name":"objGun","path":"objects/objGun/objGun.yy",},"order":2,},
     {"id":{"name":"objSMG","path":"objects/objSMG/objSMG.yy",},"order":3,},
     {"id":{"name":"sprPlayerRollU","path":"sprites/sprPlayerRollU/sprPlayerRollU.yy",},"order":4,},
+    {"id":{"name":"bckTileset","path":"sprites/bckTileset/bckTileset.yy",},"order":0,},
     {"id":{"name":"sprPlayerIdleUL","path":"sprites/sprPlayerIdleUL/sprPlayerIdleUL.yy",},"order":6,},
     {"id":{"name":"sprPlayerWalkU","path":"sprites/sprPlayerWalkU/sprPlayerWalkU.yy",},"order":5,},
     {"id":{"name":"objWeapon","path":"objects/objWeapon/objWeapon.yy",},"order":1,},
@@ -11,6 +12,7 @@
     {"id":{"name":"sprPlayerIdleU","path":"sprites/sprPlayerIdleU/sprPlayerIdleU.yy",},"order":5,},
     {"id":{"name":"sprPlayerIdleDR","path":"sprites/sprPlayerIdleDR/sprPlayerIdleDR.yy",},"order":2,},
     {"id":{"name":"scrCharLookAt","path":"scripts/scrCharLookAt/scrCharLookAt.yy",},"order":0,},
+    {"id":{"name":"objProcedural","path":"objects/objProcedural/objProcedural.yy",},"order":5,},
     {"id":{"name":"scrPlayerCheckRoll","path":"scripts/scrPlayerCheckRoll/scrPlayerCheckRoll.yy",},"order":3,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":0,},
     {"id":{"name":"sprPlayerWalkDR","path":"sprites/sprPlayerWalkDR/sprPlayerWalkDR.yy",},"order":2,},
@@ -78,6 +80,7 @@
     {"folderPath":"folders/Sprites/Weapons.yy","order":5,"resourceVersion":"1.0","name":"Weapons","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Weapons.yy","order":3,"resourceVersion":"1.0","name":"Weapons","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Player/Roll.yy","order":11,"resourceVersion":"1.0","name":"Roll","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Backgrounds.yy","order":14,"resourceVersion":"1.0","name":"Backgrounds","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -87,7 +90,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.3.0.624",
+    "IDEVersion": "2022.3.0.625",
   },
   "resourceVersion": "1.5",
   "name": "YTArenaShooter",
